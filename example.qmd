@@ -1,0 +1,27 @@
+---
+doi: "10.32942/X26W9V"
+---
+
+# Default (no type attribute, Altmetric default style)
+{{< altmetrics >}}
+
+# Default (no type attribute, Altmetric default style)
+{{< altmetrics details = true >}}
+
+# Small donut
+{{< altmetrics type=donut >}}
+
+# Medium donut
+{{< altmetrics type=medium-donut >}}
+
+# Large donut with details
+{{< altmetrics type=large-donut details=true >}}
+
+# Bar chart (small/medium)
+{{< altmetrics type=bar >}}
+
+# Medium bar with details
+{{< altmetrics type=medium-bar details=true >}}
+
+# Large bar
+{{< altmetrics type=large-bar >}}
